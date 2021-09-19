@@ -1,0 +1,299 @@
+body{
+    background-color: darkgray;
+    align:center;
+}
+.top
+{
+    display:flex;
+    flex-direction:row;
+}
+#t1
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e83838;
+    font-size: 60px;
+
+}
+#t2{
+    text-align: center;
+    font-size: 13px;
+    color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: -70px;
+margin-right: 120px;
+margin-left:50px;
+}
+
+#logo
+{
+    border-radius:50%;
+    margin-left: 270px;
+    margin-top: 80px;
+
+}
+.second
+{
+    display:flex;
+    flex-direction:row;
+}
+.s1{
+    width: 220px;
+    height: 230px;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    color: white;
+    display: block;
+}
+.s2{
+    width: 220px;
+    height: 230px;
+    background-color:#02a3fa;
+    display: flex;
+    flex-direction: column;
+    margin-right: 220px;
+    color: white;
+    display: block;
+}
+#s11{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#f7f0f0;
+    font-size: 15px;
+}
+#s21
+{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#f7f0f0;
+    font-size: 15px;
+}
+#s12
+{
+    font-size: 25px;
+}
+#s13
+{
+    font-size: 15px;
+}
+#s22
+{
+    font-size:25px;
+}
+.third1{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width:440px;
+    background-color: #e34646;
+    margin-left: 250px;
+    color:white;
+}
+.t1{
+margin:10px;
+}
+.t2
+{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-top:30px
+  
+}
+.third2{
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    width:440px;
+    background-color: #e34646;
+    margin-left: 250px;
+    color:white;
+
+}
+#t21{
+    margin-top:25px;
+}
+.four{
+    height: 290px;
+    width: 440px;
+    background-color:#02a3fa;
+    margin-left: 250px;
+    color:white;
+    margin-top:-20px;
+    
+}
+p{
+align-content: space-around;
+}
+.f1
+{
+        display: flex;
+        flex-direction:row;
+        margin:15px;
+}
+
+.five{
+    display: flex;
+    flex-direction: row;
+}
+.fv1{
+    width: 220px;
+    height: 280px;
+    background-color: #e34646;
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    color: white;
+    display: block;
+}
+.fv2{
+    width: 220px;
+    height: 280px;
+    background-color:orange;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    display: block;
+}
+#fv11
+{
+    align:center;
+    margin:15px;
+}
+#fv111
+{
+    margin-top:15px;
+    align: center;
+}
+#fv21
+{
+    align:center;
+    margin:15px;
+}
+#fv211
+{
+    margin-top:15px;
+    align: center;
+}
+
+#fries{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#drink{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#fv112{
+    font-size:20px;
+}
+
+#fv211{
+    font-size: 20px;
+}
+
+.six{
+    height: 130px;
+    width: 440px;
+    background-color:#02a3fa;
+    margin-left: 250px;
+    color:white;
+    margin-top:-10px;
+}
+.six1{
+    display:flex;
+    flex-direction:row;
+    margin:10px;
+}
+#six12
+{
+    font-size:30px;
+    align:center;
+}
+.seven{
+    height: 130px;
+    width: 440px;
+    background-color:orange;
+    margin-left: 250px;
+    color:white;
+    margin-top:-10px;
+}
+.sev1{
+    display:flex;
+    flex-direction:row;
+    margin:10px;
+    justify-content: space-between;
+}
+#sev12
+{
+    font-size:30px;
+    align:center;
+}
+
+.eight{
+    display: flex;
+    flex-direction: row;
+
+}
+.eight1{
+    width: 220px;
+    height: 260px;
+    background-color: #02a3fa;
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    color: white;
+    display: block;
+}
+.eight2{
+    width: 220px;
+    height:260px;
+    background-color:#e34646;
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+    color:white;
+}
+
+#money{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#eight11
+{
+    margin-left:30px;
+    margin-top:10px;
+}
+#eight111
+{
+    font-size:30px;
+}
+#eight21
+{
+    margin-left:30px;
+    margin-top:10px;
+}
+#eight22
+{
+    margin-left:30px;
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
